@@ -90,40 +90,6 @@ The system has two roles:
 
 ---
 
-## System Architecture
-
-```text
-                    User
-                     |
-                     v
-              React Frontend
-                     |
-                     v
-              FastAPI Backend
-                     |
-        +------------+------------+
-        |            |            |
-        v            v            v
-   Authentication   Tasks     Documents
-        |            |            |
-        |            |            v
-        |            |       Text Extraction
-        |            |            |
-        |            |            v
-        |            |       FAISS Index
-        |            |            |
-        |            |            v
-        |            |       AI Assistant
-        |            |
-        +------------+------------+
-                     |
-                     v
-                   MySQL
-
-
-
-
----
 ### Screenshots
 
 ### Login Page
@@ -145,3 +111,5 @@ The system has two roles:
 ### User Dashboard
 
 ![User Dashboard](./screenshots/user-dashboard.png)
+
+
