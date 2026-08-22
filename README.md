@@ -121,26 +121,27 @@ The system has two roles:
                    MySQL
 
 
----
 
-## Screenshots
+
+---
+### Screenshots
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page](./screenshots/login.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ### Admin Task Management
 
-![Admin Task Management](screenshots/admin-task-management.png)
+![Admin Task Management](./screenshots/admin-task-management.png)
 
 ### Admin Analytics
 
-![Admin Analytics](screenshots/admin-analytics.png)
+![Admin Analytics](./screenshots/admin-analytics.png)
 
 ### User Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard](./screenshots/user-dashboard.png)
